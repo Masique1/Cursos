@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(130, 128, 128);
+}
+
+html {
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
